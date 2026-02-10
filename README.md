@@ -30,6 +30,14 @@ Unity Atoms is an open source library that aims to make your game code:
 
 ## Installation
 
+### UPM 
+`Install package from git URL..` in `Unity Package Manager` 
+
+```
+https://github.com/quanglic55/unity-atoms.git?path=Packages/Core 
+https://github.com/quanglic55/unity-atoms.git?path=Packages/BaseAtoms
+```
+
 ### NPM
 
 _Prerequisite: Since Unity Atoms is using the Unity Package Manager (UPM) you need to use Unity version 2018.3 >=_
