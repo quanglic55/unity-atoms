@@ -20,6 +20,6 @@
     "/Documentation.meta"
   ],
   "dependencies": {
-    "com.unity-atoms.unity-atoms-core": "4.5.0"
+    "com.unity-atoms.unity-atoms-core": "https://github.com/quanglic55/unity-atoms.git?path=Packages/Core"
   }
 }
